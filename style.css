@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'FF Mark';
+    src: local('FF Mark Bold'), local('FF-Mark-Bold'),
+        url('Mark-Bold.woff2') format('woff2'),
+        url('Mark-Bold.woff') format('woff'),
+        url('Mark-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+  }
